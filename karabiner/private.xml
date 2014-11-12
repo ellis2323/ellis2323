@@ -63,5 +63,16 @@
     KeyCode::CURSOR_RIGHT</autogen>
   </item>
 
+ <item>
+  <name>del</name>
+  <appendix>shift - backspace</appendix>
+  <identifier>del</identifier>
+  <autogen>
+    __KeyToKey__
+    KeyCode::DELETE, ModifierFlag::SHIFT_L,
+    KeyCode::FORWARD_DELETE
+  </autogen>
 </item>
+</item>
+
 </root>
