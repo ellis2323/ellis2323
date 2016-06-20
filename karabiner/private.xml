@@ -55,18 +55,18 @@
       <appendix>shift - backspace</appendix>
       <identifier>shift-backsapce</identifier>
       <autogen>__KeyToKey__
-    KeyCode::DELETE, ModifierFlag::SHIFT_L,
-    KeyCode::FORWARD_DELETE
-  </autogen>
+      KeyCode::DELETE, ModifierFlag::SHIFT_L,
+      KeyCode::FORWARD_DELETE
+      </autogen>
     </item>
     <item>
       <name>del 2</name>
-      <appendix>ctrl - backspace</appendix>
+      <appendix>ctrl - d</appendix>
       <identifier>ctrk-d</identifier>
       <autogen>__KeyToKey__
-    KeyCode::D, ModifierFlag::CONTROL_L,
-    KeyCode::FORWARD_DELETE
-  </autogen>
+      KeyCode::D, ModifierFlag::CONTROL_L,
+      KeyCode::FORWARD_DELETE
+      </autogen>
     </item>
   </item>
 </root>
