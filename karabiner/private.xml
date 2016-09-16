@@ -60,6 +60,15 @@
       </autogen>
     </item>
     <item>
+      <name>backquote</name>
+      <appendix>shift_l - EST</appendix>
+      <identifier>shiftl-esc</identifier>
+      <autogen>__KeyToKey__
+      KeyCode::ESCAPE, ModifierFlag::SHIFT_R,
+      KeyCode::BACKQUOTE
+      </autogen>
+    </item>
+    <item>
       <name>del 2</name>
       <appendix>ctrl - d</appendix>
       <identifier>ctrk-d</identifier>
