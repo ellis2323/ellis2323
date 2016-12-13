@@ -51,11 +51,11 @@
     KeyCode::CURSOR_RIGHT</autogen>
     </item>
     <item>
-      <name>backquote</name>
-      <appendix>shift_l - ESC</appendix>
-      <identifier>shiftl-esc</identifier>
+      <name>backquote (Poker 3)</name>
+      <appendix>shift_r - ESC</appendix>
+      <identifier>shiftR-esc</identifier>
       <autogen>__KeyToKey__
-      KeyCode::ESCAPE, ModifierFlag::SHIFT_L,
+      KeyCode::ESCAPE, ModifierFlag::SHIFT_R,
       KeyCode::BACKQUOTE
       </autogen>
     </item>
