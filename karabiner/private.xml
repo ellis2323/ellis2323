@@ -53,9 +53,18 @@
     <item>
       <name>backquote (Poker 3)</name>
       <appendix>shift_r - ESC</appendix>
-      <identifier>shiftR-esc</identifier>
+      <identifier>backquote-pk3</identifier>
       <autogen>__KeyToKey__
       KeyCode::ESCAPE, ModifierFlag::SHIFT_R,
+      KeyCode::BACKQUOTE
+      </autogen>
+    </item>
+    <item>
+      <name>backquote (kc60)</name>
+      <appendix>shift_r - ESC</appendix>
+      <identifier>backquote-kc60</identifier>
+      <autogen>__KeyToKey__
+      KeyCode::BACKQUOTE, ModifierFlag::SHIFT_R,
       KeyCode::BACKQUOTE
       </autogen>
     </item>
